@@ -2,7 +2,13 @@
 
 @LT-NFR
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% %This is a dataset of non-functional requirement descriptions called LT-NFR %The whole dataset is constructed by filtering, screening, and reintegrating the data documents of 13 software requirements with new labels and descriptions of self-expanding NFRs. %The LT-NFR dataset has a long-tailed distribution, which makes it suitable for investigating the challenges of categorising NFRs with long-tailed distributions. %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 13 Software Engineering Requirements Documents: @PROMISE @CCHIT @eCFR @HIPAA @Meaningful use @CMS-DUA @iTrust @EMR-RFP @LACountyEHR @HuaweiClouds @OpenEMR Users Guide @OpenEMR Linux Installation @NC-DETECT-DUA
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+This is a dataset of non-functional requirement descriptions called LT-NFR %The whole dataset is constructed by filtering, screening, and reintegrating the data documents of 13 software requirements with new labels and descriptions of self-expanding NFRs. %The LT-NFR dataset has a long-tailed distribution, which makes it suitable for investigating the challenges of categorising NFRs with long-tailed distributions. 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+13 Software Engineering Requirements Documents: @PROMISE @CCHIT @eCFR @HIPAA @Meaningful use @CMS-DUA @iTrust @EMR-RFP @LACountyEHR @HuaweiClouds @OpenEMR Users Guide @OpenEMR Linux Installation @NC-DETECT-DUA
+
+The dataset can be divided into datasets using the file "stratified sampling.py".
+
 
 ProjectID {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36}
 
